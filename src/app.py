@@ -38,6 +38,36 @@ activities = {
         "schedule": "Mondays, Wednesdays, Fridays, 2:00 PM - 3:00 PM",
         "max_participants": 30,
         "participants": ["john@mergington.edu", "olivia@mergington.edu"]
+    },
+    "Robotics Club": {
+        "description": "Design and build robots while learning engineering basics",
+        "schedule": "Wednesdays, 3:30 PM - 5:00 PM",
+        "max_participants": 15,
+        "participants": ["liam@mergington.edu", "ava@mergington.edu"]
+    },
+    "Debate Team": {
+        "description": "Develop public speaking and critical thinking through debates",
+        "schedule": "Tuesdays, 4:00 PM - 5:30 PM",
+        "max_participants": 18,
+        "participants": ["noah@mergington.edu", "mia@mergington.edu"]
+    },
+    "Art Studio": {
+        "description": "Explore drawing, painting, and mixed media art projects",
+        "schedule": "Thursdays, 3:30 PM - 5:00 PM",
+        "max_participants": 16,
+        "participants": ["lucas@mergington.edu", "isabella@mergington.edu"]
+    },
+    "Music Ensemble": {
+        "description": "Practice instruments and perform together as a school ensemble",
+        "schedule": "Mondays and Thursdays, 3:45 PM - 5:00 PM",
+        "max_participants": 22,
+        "participants": ["ethan@mergington.edu", "amelia@mergington.edu"]
+    },
+    "Science Lab": {
+        "description": "Run hands-on experiments and learn scientific methods",
+        "schedule": "Fridays, 2:30 PM - 4:00 PM",
+        "max_participants": 14,
+        "participants": ["james@mergington.edu", "harper@mergington.edu"]
     }
 }
 
